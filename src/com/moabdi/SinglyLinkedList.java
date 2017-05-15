@@ -90,7 +90,7 @@ public class SinglyLinkedList {
 				break;
 			}
 			if (tmp.data == element) {
-				// found the target node, add after this node
+				// found the target node
 				refNode = tmp;
 				break;
 			}
