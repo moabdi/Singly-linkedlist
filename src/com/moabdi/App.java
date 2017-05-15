@@ -23,7 +23,7 @@ public class App {
 		list.list();
 		
 		System.out.println("Remove after element ");
-		list.remove(16);
+		list.removeAllAfter(16);
 		list.list();
 
 	}
